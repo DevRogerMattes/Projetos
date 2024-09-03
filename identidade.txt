@@ -3,3 +3,4 @@ cpf: 000.000.000-00
 idade: 29
 altura: 1.90m
 cidade: itajai
+cor de cabelo: Preto
